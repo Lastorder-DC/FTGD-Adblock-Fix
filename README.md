@@ -1,0 +1,1 @@
+# FTGD-Adblock-Fix
