@@ -1,0 +1,9 @@
+@-moz-document domain("tgd.kr") {
+#board-info[data-alias="funzinnu"] {
+    height: 20px;
+    background: none !important;
+}
+#board-info[data-alias="funzinnu"] ~ div#article-info {
+    margin-top: 11px !important;
+}
+}
